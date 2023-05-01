@@ -1,0 +1,100 @@
+/* Center the form and comments */
+#form-container,
+#comments-container {
+  margin: 0 auto;
+  width: 500px;
+}
+
+/* Style the form and comments */
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+label, input, textarea {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.comment {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.comment h3 {
+  margin: 0;
+}
+
+.comment p {
+  margin: 10px 0 0 0;
+  color: red;
+}
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+
+
+
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label, input, textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.comment {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+ 
+}
+
+.comment h3 {
+  margin: 0;
+   
+}
+
+.comment p {
+  margin: 10px 0 0 0;
+    color: red;
+}
+*/
